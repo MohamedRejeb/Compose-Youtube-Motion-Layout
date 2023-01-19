@@ -4,7 +4,7 @@
 
 Android app made using jetpack compose that contains the same motion animation as Youtube App.
 
-I made this app to confirm that compose is a powerful tool to make complex animations and share with you this power.
+I made this app to confirm that compose is a powerful tool to make complex animations and share it with you.
 
 
 
